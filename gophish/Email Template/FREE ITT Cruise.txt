@@ -1,19 +1,16 @@
-Dear {{.Position}} {{.LastName}} {{.FirstName}},
+Dear {{.Position}} {{.LastName}},
 
-We are pleased to announce that the 52nd FSS has partnered with MSC Cruises!
+We are pleased to announce that the 52nd FSS has partnered with MSC Cruises! For the 2019 vacation period, MSC Cruises will provide a complimentary trip for 10 service members.
 
-For the 2019 vacation period, MSC Cruises will provide a complimentary trip for 10 service members.
+Please see below for additional information: SPECIAL BREAK CRUISE OFFER with MSC LIRICA From 08 to 13 May 2019 traveling the Eastern Mediterranean Sea from Venice to Zadar - Kotor - Koper - Ravenna.
 
-Please see below for additional information:
+This trip includes an inside cabin staying with 2 persons and meals. Single supplement, transfer to the harbor and back and drink packages are available against a surcharge.
 
-SPECIAL BREAK CRUISE OFFER with MSC LIRICA
-From 08 to 13 May 2019 traveling the Eastern Mediterranean Sea from Venice to Zadar - Kotor - Koper - Ravenna. This trip includes an inside cabin staying with 2 persons and meals. Single supplement, transfer to the harbor and back and drink packages are available against a surcharge.
+Click here to signup!
 
-Visit {{.URL}}
+V/r,
 
-
+Gerald D. Kirkland, GS-12, USAFE
 ITT Program Manager
-
 52 FSS/FSCI Spangdahlem AB
-
 DSN 314-561-6567; Comm 0656-561-6567
